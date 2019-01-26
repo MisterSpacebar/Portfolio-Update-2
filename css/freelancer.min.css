@@ -394,6 +394,6 @@ a:hover {
 }
 
 .portfolio-block {
-    border-color: #128f76;
-    border-width: 15px;
+    border:  #128f76;
+    border-width: 5px;
 }
